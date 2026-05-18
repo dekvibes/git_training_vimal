@@ -1,2 +1,0 @@
-This is a test file created using Github
-Second line is added using Github
